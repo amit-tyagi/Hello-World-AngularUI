@@ -1,0 +1,22 @@
+{
+  "name": "'Hello World'",
+  "version": "0.0.0",
+  "authors": [
+    "Amit Tyagi <iamittyagi@gmail.com>"
+  ],
+  "description": "Fancy Started Application",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.8",
+    "angular-mocks": "~1.3.8"
+  }
+}
